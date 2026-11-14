@@ -1,0 +1,9 @@
+Sagrada Kirche - Tiled Bildersammlung
+
+1. Den gesamten Ordner in das tilesets-Verzeichnis kopieren.
+2. In Tiled die bestehende Karte öffnen und den vorhandenen Kachelsatz Sagrada_Kirche_Neu.tsx hinzufügen.
+3. Auf einer separaten Objektebene die Kirche als EIN Kachelobjekt platzieren.
+4. Die alte Kirchenebene zunächst NICHT löschen oder überschreiben.
+5. Größe und Position manuell an die bisherige Kirche anpassen.
+
+Hinweis: Diese neu generierte Kirche ist nicht pixelgenau identisch mit der alten Grafik. An den Kanten können Farbsäume auftreten. WorkAdventure-Darstellung von großen Kachelobjekten muss separat geprüft werden.

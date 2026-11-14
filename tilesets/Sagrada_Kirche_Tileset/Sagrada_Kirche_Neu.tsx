@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tileset version="1.10" tiledversion="1.11.0" name="Sagrada_Kirche_Neu" tilewidth="1371" tileheight="1148" tilecount="1" columns="0" objectalignment="bottomleft"><tile id="0"><image width="1371" height="1148" source="Sagrada_Kirche.png" /></tile></tileset>
