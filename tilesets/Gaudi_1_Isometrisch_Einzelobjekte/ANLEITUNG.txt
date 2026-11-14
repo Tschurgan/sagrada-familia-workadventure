@@ -1,0 +1,5 @@
+Gaudi Einzelobjekte - Tiled Bildersammlung
+
+Den ganzen Ordner nach tilesets kopieren. In Tiled den vorhandenen Kachelsatz Gaudi_Isometrisch_Einzelobjekte.tsx hinzufuegen. Jedes Element ist eine eigene PNG-Datei, kein 32x32-Atlas. Auf einer Objektebene als Kachelobjekt einfuegen und bei Bedarf verkleinern.
+
+Hinweis: Automatische Freistellung kann bei hellen Kanten kleine Artefakte hinterlassen. WorkAdventure-Unterstuetzung fuer grosse Kachelobjekte muss getestet werden. Die vorhandene Karte nicht ueberschreiben.
