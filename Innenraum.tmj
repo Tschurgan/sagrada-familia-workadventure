@@ -2814,11 +2814,11 @@
         {
          "columns":120,
          "firstgid":396,
-         "image":"..\/Innenraum entpackt\/Sagrada_Familia_Innenraum_120x80.png",
+         "image":"tilesets\/Sagrada_Familia_Innenraum_120x80.png",
          "imageheight":2560,
          "imagewidth":3840,
          "margin":0,
-         "name":"Innenraum Sagrada",
+         "name":"Sagrada_Familia_Innenraum_120x80",
          "spacing":0,
          "tilecount":9600,
          "tileheight":32,
