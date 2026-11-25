@@ -192,17 +192,6 @@
          "y":0
         }, 
         {
-         "draworder":"topdown",
-         "id":65,
-         "name":"Konsole mit Kontostand",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":false,
-         "x":0,
-         "y":0
-        }, 
-        {
          "id":55,
          "layers":[
                 {
@@ -407,6 +396,37 @@
                  "width":80,
                  "x":0,
                  "y":0
+                }, 
+                {
+                 "draworder":"topdown",
+                 "id":69,
+                 "name":"Terra-Fonds Uhr",
+                 "objects":[
+                        {
+                         "height":256,
+                         "id":27,
+                         "name":"",
+                         "opacity":1,
+                         "properties":[
+                                {
+                                 "name":"url",
+                                 "type":"string",
+                                 "value":"https:\/\/affentennis.com\/?wagt_board=1"
+                                }],
+                         "rotation":0,
+                         "type":"",
+                         "visible":true,
+                         "width":384,
+                         "x":1032,
+                         "y":545.333333333333
+                        }],
+                 "offsetx":-44,
+                 "offsety":-76.0000000000001,
+                 "opacity":1,
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
                 }],
          "name":"furniture",
          "opacity":1,
@@ -571,17 +591,6 @@
          "y":0
         }, 
         {
-         "draworder":"topdown",
-         "id":66,
-         "name":"Weltkonsolr Kontostand Vordergrund 3",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
          "id":51,
          "layers":[
                 {
@@ -713,8 +722,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":68,
- "nextobjectid":27,
+ "nextlayerid":70,
+ "nextobjectid":28,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -753,7 +762,7 @@
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
-         "name":"WA_Special_Zones",
+         "name":"Zones",
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -776,7 +785,7 @@
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
-         "name":"WA_Miscellaneous",
+         "name":"Essen",
          "spacing":0,
          "tilecount":110,
          "tileheight":32,
