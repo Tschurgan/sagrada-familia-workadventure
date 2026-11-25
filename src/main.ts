@@ -34,3 +34,26 @@ function closePopup(){
 }
 
 export {};
+WA.onInit().then(() => {
+    if (decodeURIComponent(WA.room.id)
+        .includes("Innenraum kleiner")) {
+
+        WA.room.website.create({
+            name: "terra-fonds-uhr",
+            url: "https://affentennis.com/?wagt_board=1",
+            position: {
+                x: 1032,
+                y: 545.333,
+                width: 384,
+                height: 256
+            },
+            visible: true,
+            allowApi: false,
+            allow: "",
+            origin: "map",
+            scale: 1
+        });
+
+        console.info("Terra-Fonds-Uhr erstellt");
+    }
+}).catch(e => console.error(e));
