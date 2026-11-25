@@ -225,7 +225,7 @@
          "name":"Startpunkt Burgtor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -319,7 +319,7 @@
                 {
                  "name":"exitUrlt",
                  "type":"string",
-                 "value":"Innenraum%20kleiner.tmj"
+                 "value":"https:\/\/play.workadventu.re\/@\/braunkohl\/orden\/Tschurgan-sagrada-familia-workadventure\/Innenraum%20kleiner"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -413,7 +413,7 @@
          "name":"Rasen",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -504,7 +504,7 @@
          "name":"Burgtor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -595,7 +595,7 @@
          "name":"Sagrada Geb\u00e4ude",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
