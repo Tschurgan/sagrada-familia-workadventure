@@ -97,45 +97,10 @@
          "draworder":"topdown",
          "id":66,
          "name":"Eingang",
-         "objects":[
-                {
-                 "height":0,
-                 "id":36,
-                 "name":"",
-                 "opacity":1,
-                 "polygon":[
-                        {
-                         "x":0,
-                         "y":0
-                        }, 
-                        {
-                         "x":118.666666666667,
-                         "y":-44
-                        }, 
-                        {
-                         "x":118,
-                         "y":-96.6666666666667
-                        }, 
-                        {
-                         "x":-16,
-                         "y":-48.6666666666667
-                        }],
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":".\/Innenraum.tmj"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":1801.33333333333,
-                 "y":1249.33333333333
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -222,7 +187,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":80,
          "id":6,
-         "name":"Startpunkt Burgtor",
+         "name":"start",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -751,7 +716,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -762,7 +727,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -772,7 +737,7 @@
          "name":"floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -865,7 +830,7 @@
                  "name":"above1",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":80,
                  "x":0,
                  "y":0
@@ -956,7 +921,7 @@
                  "name":"above2",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":80,
                  "x":0,
                  "y":0
@@ -964,7 +929,7 @@
          "name":"above",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
