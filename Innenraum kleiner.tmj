@@ -268,7 +268,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":".\/Spendenkonsole.html"
+                         "value":"https:\/\/affentennis.com\/Spendenkonsole.html"
                         }],
                  "rotation":0,
                  "type":"area",
