@@ -247,9 +247,11 @@
          "height":50,
          "id":71,
          "name":"Spendenkonsole Bild",
+         "offsetx":23,
+         "offsety":13,
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":80,
          "x":0,
          "y":0
@@ -260,7 +262,7 @@
          "name":"Spendenkonsole programm",
          "objects":[
                 {
-                 "height":53,
+                 "height":28,
                  "id":30,
                  "name":"spendenKonsole",
                  "opacity":1,
@@ -273,9 +275,22 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":70,
-                 "x":445,
-                 "y":755
+                 "width":36.9811320754717,
+                 "x":394,
+                 "y":701
+                }, 
+                {
+                 "gid":19884,
+                 "height":104.666666666667,
+                 "id":32,
+                 "name":"",
+                 "opacity":1,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":157,
+                 "x":323,
+                 "y":731.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -935,7 +950,7 @@
          "y":0
         }],
  "nextlayerid":74,
- "nextobjectid":32,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1080,6 +1095,10 @@
          "tilecount":96,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "firstgid":19884,
+         "source":"tilesets\/Konsolen\/Gaudi-Spendenkonsole-Display-Einzelbild.tsx"
         }],
  "tilewidth":32,
  "type":"map",
