@@ -64,7 +64,7 @@
                  "value":"Orden%20der%20Terraner.tmj"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -271,7 +271,7 @@
                          "value":".\/Spendenkonsole.html"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":70,
                  "x":445,
