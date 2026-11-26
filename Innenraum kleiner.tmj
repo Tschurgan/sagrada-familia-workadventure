@@ -1027,12 +1027,30 @@
          "tilewidth":32
         }, 
         {
+         "columns":12,
          "firstgid":19692,
-         "source":"tilesets\/Konsolen\/Gaudi-Konsole-32.tsx"
+         "image":"tilesets\/Konsolen\/Gaudi-Konsole-32.png",
+         "imageheight":256,
+         "imagewidth":384,
+         "margin":0,
+         "name":"Entw Sp",
+         "spacing":0,
+         "tilecount":96,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":12,
          "firstgid":19788,
-         "source":"tilesets\/Konsolen\/Gaudi-Zukunftskonsole-32.tsx"
+         "image":"tilesets\/Konsolen\/Gaudi-Zukunftskonsole-32.png",
+         "imageheight":256,
+         "imagewidth":384,
+         "margin":0,
+         "name":"Entw",
+         "spacing":0,
+         "tilecount":96,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
